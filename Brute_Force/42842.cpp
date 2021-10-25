@@ -21,7 +21,3 @@ vector<int> solution(int brown, int yellow)
         }
     return answer;
 }
-int main()
-{
-    solution(8, 1);
-}
